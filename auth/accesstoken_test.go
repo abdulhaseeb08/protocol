@@ -8,7 +8,7 @@ import (
 	"github.com/stretchr/testify/require"
 	"gopkg.in/square/go-jose.v2/jwt"
 
-	"github.com/abdulhaseeb08/protocol/utils"
+	"github.com/carbonteq/protocol/utils"
 )
 
 func TestAccessToken(t *testing.T) {

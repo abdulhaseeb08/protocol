@@ -3,7 +3,7 @@ package egress
 import (
 	"time"
 
-	"github.com/abdulhaseeb08/protocol/auth"
+	"github.com/carbonteq/protocol/auth"
 )
 
 func BuildEgressToken(egressID, apiKey, secret, roomName string) (string, error) {

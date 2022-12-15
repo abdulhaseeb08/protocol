@@ -4,7 +4,7 @@ package authfakes
 import (
 	"sync"
 
-	"github.com/abdulhaseeb08/protocol/auth"
+	"github.com/carbonteq/protocol/auth"
 )
 
 type FakeTokenVerifier struct {
