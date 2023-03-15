@@ -13,7 +13,7 @@ import (
 	"google.golang.org/protobuf/encoding/protojson"
 	"google.golang.org/protobuf/proto"
 
-	"github.com/abdulhaseeb08/protocol/auth"
+	"github.com/carbonteq/protocol/auth"
 )
 
 const defaultWebhookTimeout = 10 * time.Second

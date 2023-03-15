@@ -1,4 +1,4 @@
-module github.com/abdulhaseeb08/protocol
+module github.com/carbonteq/protocol
 
 go 1.17
 

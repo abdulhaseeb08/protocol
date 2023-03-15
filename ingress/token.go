@@ -3,7 +3,7 @@ package ingress
 import (
 	"time"
 
-	"github.com/abdulhaseeb08/protocol/auth"
+	"github.com/carbonteq/protocol/auth"
 )
 
 func BuildIngressToken(apiKey, secret, roomName, participantIdentity, participantName string) (string, error) {

@@ -8,7 +8,7 @@ import (
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 
-	"github.com/abdulhaseeb08/protocol/auth"
+	"github.com/carbonteq/protocol/auth"
 )
 
 func TestFileBasedKeyProvider(t *testing.T) {
